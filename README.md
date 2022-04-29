@@ -9,4 +9,7 @@
 > open https://github.com/sakibguy/worked-issues/issues?q=is%3Aopen+is%3Aissue+label%3Aandroid
 ## 3-FIREBASE
 ## 4-UNITY
+> closed https://github.com/sakibguy/worked-issues/issues?q=label%3Aunity+is%3Aclosed
+
+> open https://github.com/sakibguy/worked-issues/issues?q=label%3Aunity+is%3Aopen
 ## 5-AWS

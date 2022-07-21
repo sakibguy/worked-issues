@@ -8,7 +8,7 @@
 
 > open https://github.com/sakibguy/worked-issues/issues?q=is%3Aopen+is%3Aissue+label%3Aandroid
 ## 3-FIREBASE
-## 4-UNITY ([MA](https://github.com/sakibguy/worked-issues/issues?q=is%3Aclosed+label%3Amakeapp), EB)
+## 4-UNITY ([MA](https://github.com/sakibguy/worked-issues/issues?q=is%3Aclosed+label%3Amakeapp+label%3Aunity), EB)
 > closed https://github.com/sakibguy/worked-issues/issues?q=label%3Aunity+is%3Aclosed
 
 > open https://github.com/sakibguy/worked-issues/issues?q=label%3Aunity+is%3Aopen

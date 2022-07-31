@@ -17,7 +17,7 @@
 
 ## 5-AWS (SLLLC)
 
-#### GIT
+#### https://github.com/sakibguy/worked-issues/labels/git
 > closed https://github.com/sakibguy/worked-issues/issues?q=label%3Agit+is%3Aclosed
 
-> open https://github.com/sakibguy/worked-issues/labels/git
+> open https://github.com/sakibguy/worked-issues/issues?q=is%3Aopen+is%3Aissue+label%3Agit

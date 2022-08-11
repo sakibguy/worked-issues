@@ -37,7 +37,7 @@
 
 ## EXPERIENCED 10+ORGS
 > **RU**
-1. [ru:makeapp](https://developer.get-work.app/en/login) gameindustry
+1. [ru:makeapp](https://developer.get-work.app/ru/login) gameindustry
 2. [ru:heavytech](http://questmedia.ru/) adsindustry
 3. [ru:longevity](https://longevityintime.org/en/) biotechindustry
 4. ru:eb ybersecurity

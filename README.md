@@ -45,9 +45,10 @@
 6. ru:ge ybersecurity
 
 > **US**
-1. [us:dma](https://dma.com.bd/) founded by 33 years NASA scientist, international space station data center designer
-2. [us:fvm](https://www.filemyvisa.com/) usa govt. digital immigration system
+1. [us:dma](https://dma.com.bd/) founded by 33 years retired NASA scientist
+2. [us:filemyvisa](https://www.filemyvisa.com/) usa govt. digital immigration system
 3. [us:slllc](https://shadhinlab.com/) aws
+4. [us:armanthecyber](https://twitter.com/ArmanTheCyber) ybersecurity
 
 > **CA**
 1. ca:microlearn

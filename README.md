@@ -39,7 +39,7 @@
 > **RU**
 1. [ru:makeapp](https://developer.get-work.app/ru/login) gameindustry
 2. [ru:heavytech](http://questmedia.ru/) adsindustry
-3. [ru:longevity](https://longevityintime.org/en/) biotechindustry
+3. [ru:longevity](https://longevityintime.org/ru/) biotechindustry
 4. ru:eb ybersecurity
 5. ru:ax ybersecurity
 6. ru:ge ybersecurity

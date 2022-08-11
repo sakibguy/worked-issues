@@ -30,7 +30,7 @@
 > open
 
 ## 6- https://github.com/sakibguy/worked-issues/labels/git 
-#### [makeapp](https://github.com/sakibguy/worked-issues/issues?q=is%3Aissue+label%3Agit+label%3Amakeapp+is%3Aclosed), ax, ge, nc, eb, fvm, hh, myalice
+#### [makeapp](https://github.com/sakibguy/worked-issues/issues?q=is%3Aissue+label%3Agit+label%3Amakeapp+is%3Aclosed), heavytech, filemyvisa, microlearn, myalice, axav, ge, eb
 > closed https://github.com/sakibguy/worked-issues/issues?q=label%3Agit+is%3Aclosed
 
 > open https://github.com/sakibguy/worked-issues/issues?q=is%3Aopen+is%3Aissue+label%3Agit

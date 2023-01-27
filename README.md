@@ -1,41 +1,35 @@
 # ECOSYSTEM
-## 1- ANDROID 
-#### [makeapp](https://github.com/sakibguy/worked-issues/issues?q=label%3Amakeapp+is%3Aclosed+label%3Aandroid), [myalice](https://github.com/sakibguy/worked-issues/issues?q=label%3Amyalice+is%3Aclosed), [filemyvisa](https://github.com/sakibguy/worked-issues/issues?q=is%3Aissue+is%3Aclosed+label%3Afvm+label%3Aandroid), heavytech, microlearn, axav, ge, eb  
+## MOBILE
+#### ANDROID: [makeapp](https://github.com/sakibguy/worked-issues/issues?q=label%3Amakeapp+is%3Aclosed+label%3Aandroid), [myalice](https://github.com/sakibguy/worked-issues/issues?q=label%3Amyalice+is%3Aclosed), [filemyvisa](https://github.com/sakibguy/worked-issues/issues?q=is%3Aissue+is%3Aclosed+label%3Afvm+label%3Aandroid), heavytech, microlearn, axav, getech, ebtech 
 > closed https://github.com/sakibguy/worked-issues/issues?q=is%3Aissue+is%3Aclosed+label%3Aandroid
 
 > open https://github.com/sakibguy/worked-issues/issues?q=is%3Aopen+is%3Aissue+label%3Aandroid
-
-## 2- UNITY 
-#### [makeapp](https://github.com/sakibguy/worked-issues/issues?q=is%3Aclosed+label%3Amakeapp+label%3Aunity), eb
+ 
+#### UNITY: [makeapp](https://github.com/sakibguy/worked-issues/issues?q=is%3Aclosed+label%3Amakeapp+label%3Aunity), ebtech
 > closed https://github.com/sakibguy/worked-issues/issues?q=label%3Aunity+is%3Aclosed
 
 > open https://github.com/sakibguy/worked-issues/issues?q=label%3Aunity+is%3Aopen
 
-## 3- WINDOWS 
-#### [eb](https://github.com/sakibguy/worked-issues/issues?q=label%3Aeb+label%3Awindows+label%3Agamecheat+is%3Aclosed)
+## WINDOWS 
+#### AC: [ebtech](https://github.com/sakibguy/worked-issues/issues?q=label%3Aeb+label%3Awindows+label%3Agamecheat+is%3Aclosed)
 > closed https://github.com/sakibguy/worked-issues/issues?q=is%3Aissue+is%3Aclosed+label%3Awindows
 
 > open https://github.com/sakibguy/worked-issues/issues?q=is%3Aopen+is%3Aissue+label%3Awindows
 
-## 4- FIREBASE 
-#### microlearn, filemyvisa, axav 
+## SERVER 
+#### AWS: slllc 
 > closed
 
 > open
+#### FIREBASE: microlearn, filemyvisa, axav
 
-## 5- AWS 
-#### slllc
-> closed
-
-> open
-
-## 6- https://github.com/sakibguy/worked-issues/labels/git 
-#### [makeapp](https://github.com/sakibguy/worked-issues/issues?q=is%3Aissue+label%3Agit+label%3Amakeapp+is%3Aclosed), heavytech, filemyvisa, microlearn, myalice, axav, ge, eb
+## GIT 
+#### [makeapp](https://github.com/sakibguy/worked-issues/issues?q=is%3Aissue+label%3Agit+label%3Amakeapp+is%3Aclosed), heavytech, filemyvisa, microlearn, myalice, axav, getech, ebtech
 > closed https://github.com/sakibguy/worked-issues/issues?q=label%3Agit+is%3Aclosed
 
 > open https://github.com/sakibguy/worked-issues/issues?q=is%3Aopen+is%3Aissue+label%3Agit
 
-## EXPERIENCED 10+ORGS
+# EXPERIENCED 10+ORGS
 > **RU**
 1. [ru:makeapp](https://developer.get-work.app/ru/login) gameindustry
 2. [ru:heavytech](http://questmedia.ru/) adsindustry
